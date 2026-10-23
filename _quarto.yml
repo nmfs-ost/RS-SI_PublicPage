@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "NOAA quarto simple" 
-  site-url: "https://madrichardson.github.io/RS-SI_PublicPage/" 
-  repo-url: "https://madrichardson.github.io/RS-SI_PublicPage/"
+  site-url: "https://nmfs-ost.github.io/RS-SI_PublicPage/" 
+  repo-url: "https://nmfs-ost.github.io/RS-SI_PublicPage/"
   repo-actions: [none]
   favicon: images/favicon.ico
 
@@ -21,7 +21,7 @@ website:
     align: center
     tools: 
       - icon: github
-        href: https://github.com/madrichardson/RS-SI_PublicPage/tree/main
+        href: https://github.com/nmfs-ost/RS-SI_PublicPage/tree/main
         text: "Source Code"
 
     style: "docked"
