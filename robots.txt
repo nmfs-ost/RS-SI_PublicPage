@@ -1,1 +1,1 @@
-Sitemap: https://madrichardson.github.io/RS-SI_PublicPage/sitemap.xml
+Sitemap: https://nmfs-ost.github.io/RS-SI_PublicPage/sitemap.xml
