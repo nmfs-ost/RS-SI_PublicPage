@@ -1,5 +1,5 @@
 ---
-title: "Geospatial Artificial Intelligence for Animals"
+title: "Geospatial Analysis of Imagery for Animals"
 ---
 
 <img src="../images/GAIA-logo.png" width="120" height="50" align=center/>
@@ -8,7 +8,7 @@ title: "Geospatial Artificial Intelligence for Animals"
 
 **Project Page:** [GAIA](https://www.fisheries.noaa.gov/new-england-mid-atlantic/science-data/geospatial-artificial-intelligence-animals)
 
-Geospatial Artificial Intelligence for Animals (GAIA) is a NOAA Fisheries initiative advancing the use of very-high-resolution satellite imagery to study marine animals, including whales, seals, and sea turtles. Its cloud platform brings together imagery processing, visualization, and expert annotation to produce quality-controlled datasets for developing and evaluating automated detection methods. Initially developed for North Atlantic right whales in Cape Cod Bay and Belugas in Cook Inlet, Alaska, GAIA is expanding to support projects across all NOAA Fisheries regions, including Southern Resident killer whales, Hawaiian monk seals and sea turtles, Rice’s whales, and mixed species whale aggregations off California.
+Geospatial Analysis of Imagery for Animals (GAIA) is a NOAA Fisheries initiative advancing the use of very-high-resolution satellite imagery to study marine animals, including whales, seals, and sea turtles. Its cloud platform brings together imagery processing, visualization, and expert annotation to produce quality-controlled datasets for developing and evaluating automated detection methods. Initially developed for North Atlantic right whales in Cape Cod Bay and Belugas in Cook Inlet, Alaska, GAIA is expanding to support projects across all NOAA Fisheries regions, including Southern Resident killer whales, Hawaiian monk seals and sea turtles, Rice’s whales, and mixed species whale aggregations off California.
 
 GAIA’s planned transition focuses on establishing a stable, maintainable, nationally coordinated scientific capability. Priorities include completing cloud and database migration, improving application reliability and usability, documenting reproducible imagery-processing workflows, and expanding expert annotation and validation. Planned data services will give authorized collaborators consistent access to imagery, reviewed labels, and associated metadata to support machine-learning development.
 

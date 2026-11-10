@@ -12,9 +12,9 @@ EcoCast is a dynamic ocean management tool that combines near-real-time environm
 
 ERDDAP™ provides standardized access to environmental and fisheries datasets through both human-readable interfaces and programmatic services. The RS SI project focuses on strengthening ERDDAP as long-term NOAA infrastructure through cloud migration, expanded software maintenance, technical support, and development of a sustainable operational model.
 
-## [Geospatial Artificial Intelligence for Animals (GAIA)](GAIA.qmd)
+## [Geospatial Analysis of Imagery for Animals (GAIA)](GAIA.qmd)
 
-Geospatial Artificial Intelligence for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.
+Geospatial Analysis of Imagery for Animals (GAIA) explores the use of very-high-resolution satellite imagery and artificial intelligence to detect and study marine animals. The project combines satellite imagery, expert annotation, cloud computing, and machine learning to evaluate how satellite observations can complement traditional aerial and vessel-based surveys.
 
 ## [Coastal Chlorophyll for Fisheries](CoastalChl.qmd)
 
